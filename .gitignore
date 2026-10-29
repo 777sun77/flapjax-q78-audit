@@ -1,0 +1,26 @@
+# Publish only the audit and its evidence. Exclude local configuration and logs.
+*
+!.gitignore
+!README.md
+!submission.md
+!task.json
+!flapjax_audit.py
+!validate.py
+!requirements.txt
+!results.json
+!account_states.json
+!transfer_checks.json
+!transfers.csv
+!first_funders.csv
+!groups.csv
+!logs_primary.json
+!logs_secondary.json
+!SHA256SUMS
+!traces/
+!traces/*.json
+!receipts/
+!receipts/*.json
+!funding_receipts/
+!funding_receipts/*.json
+!funding_blocks/
+!funding_blocks/*.json

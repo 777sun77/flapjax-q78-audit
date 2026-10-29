@@ -1,0 +1,2435 @@
+{
+  "token": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+  "treasury": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+  "rpcs": [
+    "https://bsc-mainnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3",
+    "https://public-bsc.nownodes.io"
+  ],
+  "first_block": 130221520,
+  "last_block": 130413457,
+  "boundaries": [
+    {
+      "block": 130221519,
+      "timestamp": 1793163599,
+      "utc": "2026-10-28T04:59:59+00:00",
+      "cot": "2026-10-27T23:59:59-05:00"
+    },
+    {
+      "block": 130221520,
+      "timestamp": 1793163600,
+      "utc": "2026-10-28T05:00:00+00:00",
+      "cot": "2026-10-28T00:00:00-05:00"
+    },
+    {
+      "block": 130413457,
+      "timestamp": 1793249999,
+      "utc": "2026-10-29T04:59:59+00:00",
+      "cot": "2026-10-28T23:59:59-05:00"
+    },
+    {
+      "block": 130413458,
+      "timestamp": 1793250000,
+      "utc": "2026-10-29T05:00:00+00:00",
+      "cot": "2026-10-29T00:00:00-05:00"
+    }
+  ],
+  "logs_crosscheck_equal": true,
+  "transfers": [
+    {
+      "tx_hash": "0xbfc21c7712f9ac9a4169e211e0e341d14236fbc097fae2e03852cce1ef0e7952",
+      "block": 130289426,
+      "log_index": 226,
+      "utc": "2026-10-28T13:29:31+00:00",
+      "cot": "2026-10-28T08:29:31-05:00",
+      "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+      "amount_raw": "300000000000000000000000",
+      "amount": "300000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x00000000000000000000000097cd18b8bbb629b17675d868259ea84c0a2a5a9c"
+        ],
+        "data": "0x000000000000000000000000000000000000000000003f870857a3e0e3800000",
+        "blockNumber": "0x7c40f12",
+        "transactionHash": "0xbfc21c7712f9ac9a4169e211e0e341d14236fbc097fae2e03852cce1ef0e7952",
+        "transactionIndex": "0x3c",
+        "blockHash": "0x3159ce0c321b6f92a5fb4a9710f0a6dd3deff96a4c921e04352f1f92732ebba2",
+        "blockTimestamp": "0x6ae1f8bb",
+        "logIndex": "0xe2",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0x76f4abaa6a14005726257d1412d9a9842af6c09a5bb6395c2604f844f9bff77d",
+      "block": 130289434,
+      "log_index": 439,
+      "utc": "2026-10-28T13:29:35+00:00",
+      "cot": "2026-10-28T08:29:35-05:00",
+      "recipient": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+      "amount_raw": "25000000000000000000000",
+      "amount": "25000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x000000000000000000000000fb200657f7266157a45dfcc6c09690726daa24e6"
+        ],
+        "data": "0x00000000000000000000000000000000000000000000054b40b1f852bda00000",
+        "blockNumber": "0x7c40f1a",
+        "transactionHash": "0x76f4abaa6a14005726257d1412d9a9842af6c09a5bb6395c2604f844f9bff77d",
+        "transactionIndex": "0x54",
+        "blockHash": "0xcdd51ce1b75bf59cde4e4c6579c2d6b9a60c75ee6457e8c67eda629ef5be2e0c",
+        "blockTimestamp": "0x6ae1f8bf",
+        "logIndex": "0x1b7",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0xdd2feb71c1dda3945b233ab7c924b1d1e6d52b7d3dcd4cc6354e3248df9b3da4",
+      "block": 130289443,
+      "log_index": 1555,
+      "utc": "2026-10-28T13:29:39+00:00",
+      "cot": "2026-10-28T08:29:39-05:00",
+      "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+      "amount_raw": "25000000000000000000000",
+      "amount": "25000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x00000000000000000000000097cd18b8bbb629b17675d868259ea84c0a2a5a9c"
+        ],
+        "data": "0x00000000000000000000000000000000000000000000054b40b1f852bda00000",
+        "blockNumber": "0x7c40f23",
+        "transactionHash": "0xdd2feb71c1dda3945b233ab7c924b1d1e6d52b7d3dcd4cc6354e3248df9b3da4",
+        "transactionIndex": "0x65",
+        "blockHash": "0x3d06c2b0b7e50581a73fe7320a336b8b93d3b3a099445495d4e3dcc565b02daf",
+        "blockTimestamp": "0x6ae1f8c3",
+        "logIndex": "0x613",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0x8c6305282436e1867eeac42b859ff947dad7f0db447af34fb8ff7185d88bb0d9",
+      "block": 130289453,
+      "log_index": 289,
+      "utc": "2026-10-28T13:29:43+00:00",
+      "cot": "2026-10-28T08:29:43-05:00",
+      "recipient": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+      "amount_raw": "25000000000000000000000",
+      "amount": "25000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x000000000000000000000000abc2c3daffa4c1963299da225c25f2aa7d4ddf62"
+        ],
+        "data": "0x00000000000000000000000000000000000000000000054b40b1f852bda00000",
+        "blockNumber": "0x7c40f2d",
+        "transactionHash": "0x8c6305282436e1867eeac42b859ff947dad7f0db447af34fb8ff7185d88bb0d9",
+        "transactionIndex": "0x3e",
+        "blockHash": "0x0ccaf54067e83744fa3ad4232de8bc94c4437743f1eb4e1879f876b6691c7c64",
+        "blockTimestamp": "0x6ae1f8c7",
+        "logIndex": "0x121",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0xe468d224801e50cf936296a8f79b6bc9dc13d14bede24bd9945312e597b2074e",
+      "block": 130289462,
+      "log_index": 526,
+      "utc": "2026-10-28T13:29:48+00:00",
+      "cot": "2026-10-28T08:29:48-05:00",
+      "recipient": "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37",
+      "amount_raw": "25000000000000000000000",
+      "amount": "25000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x0000000000000000000000003d98800c64c345950e1eaaa076d88c12d1bf5f37"
+        ],
+        "data": "0x00000000000000000000000000000000000000000000054b40b1f852bda00000",
+        "blockNumber": "0x7c40f36",
+        "transactionHash": "0xe468d224801e50cf936296a8f79b6bc9dc13d14bede24bd9945312e597b2074e",
+        "transactionIndex": "0x70",
+        "blockHash": "0xf14cb062239553d7206a5bfa3fe13bb43bf4a0f7ad55ae8aa73f6304e0cdda09",
+        "blockTimestamp": "0x6ae1f8cc",
+        "logIndex": "0x20e",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0x7e8f90f49597397529cc81cea8723debc2dd08da35ba78999fcc2840dc4cad0c",
+      "block": 130289472,
+      "log_index": 302,
+      "utc": "2026-10-28T13:29:52+00:00",
+      "cot": "2026-10-28T08:29:52-05:00",
+      "recipient": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+      "amount_raw": "25000000000000000000000",
+      "amount": "25000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x000000000000000000000000df4ff9d2f45f99f11a90b16f277d4b7edddb72a5"
+        ],
+        "data": "0x00000000000000000000000000000000000000000000054b40b1f852bda00000",
+        "blockNumber": "0x7c40f40",
+        "transactionHash": "0x7e8f90f49597397529cc81cea8723debc2dd08da35ba78999fcc2840dc4cad0c",
+        "transactionIndex": "0x56",
+        "blockHash": "0x26c6547e36efbcc61d99e63ecc8a8a9bb38a1ebf362e87856aaba979597bfc7b",
+        "blockTimestamp": "0x6ae1f8d0",
+        "logIndex": "0x12e",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0x0c7d758ba9955a141839d137c2830b41860eb00ccdb0bb1a10ef33829e9b1bb6",
+      "block": 130289480,
+      "log_index": 371,
+      "utc": "2026-10-28T13:29:56+00:00",
+      "cot": "2026-10-28T08:29:56-05:00",
+      "recipient": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+      "amount_raw": "300000000000000000000000",
+      "amount": "300000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x000000000000000000000000abc2c3daffa4c1963299da225c25f2aa7d4ddf62"
+        ],
+        "data": "0x000000000000000000000000000000000000000000003f870857a3e0e3800000",
+        "blockNumber": "0x7c40f48",
+        "transactionHash": "0x0c7d758ba9955a141839d137c2830b41860eb00ccdb0bb1a10ef33829e9b1bb6",
+        "transactionIndex": "0x4f",
+        "blockHash": "0xadbea432ddc773f8d8305074f403e955c7daf6c1fe47a890bc7e3c70ed6133f7",
+        "blockTimestamp": "0x6ae1f8d4",
+        "logIndex": "0x173",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0x825b5c67d1cf033e9f756dcd5c69f683d77f2478ee0ee5d8f6b04d42df05c8ae",
+      "block": 130290580,
+      "log_index": 292,
+      "utc": "2026-10-28T13:38:11+00:00",
+      "cot": "2026-10-28T08:38:11-05:00",
+      "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+      "amount_raw": "300000000000000000000000",
+      "amount": "300000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x00000000000000000000000097cd18b8bbb629b17675d868259ea84c0a2a5a9c"
+        ],
+        "data": "0x000000000000000000000000000000000000000000003f870857a3e0e3800000",
+        "blockNumber": "0x7c41394",
+        "transactionHash": "0x825b5c67d1cf033e9f756dcd5c69f683d77f2478ee0ee5d8f6b04d42df05c8ae",
+        "transactionIndex": "0x63",
+        "blockHash": "0xb9d9fe1d9aea18ecbd2a5d3299fe95704bef532851376766101833eebe12dd54",
+        "blockTimestamp": "0x6ae1fac3",
+        "logIndex": "0x124",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0x388a55851ce63aaf984e6671f305155b165c47225dc5d7dab0e47d8ce2763372",
+      "block": 130292025,
+      "log_index": 484,
+      "utc": "2026-10-28T13:49:02+00:00",
+      "cot": "2026-10-28T08:49:02-05:00",
+      "recipient": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+      "amount_raw": "10000000000000000000000",
+      "amount": "10000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x0000000000000000000000008c062dc5d775b7d5efc168f75a875f392f53dcdf"
+        ],
+        "data": "0x00000000000000000000000000000000000000000000021e19e0c9bab2400000",
+        "blockNumber": "0x7c41939",
+        "transactionHash": "0x388a55851ce63aaf984e6671f305155b165c47225dc5d7dab0e47d8ce2763372",
+        "transactionIndex": "0x75",
+        "blockHash": "0xfd4691537ea0efe307c0ff6ba5374c377ba766d5b21f93e241030a76caf50b90",
+        "blockTimestamp": "0x6ae1fd4e",
+        "logIndex": "0x1e4",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0x69fea445443ca8d27e43d3c11f53aaa34a2edc7e997e84668409d86eb021abb5",
+      "block": 130305844,
+      "log_index": 644,
+      "utc": "2026-10-28T15:32:43+00:00",
+      "cot": "2026-10-28T10:32:43-05:00",
+      "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "amount_raw": "25000000000000000000000",
+      "amount": "25000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x000000000000000000000000fdf05af8ddce3621f01713e01721d6e9ad702ea8"
+        ],
+        "data": "0x00000000000000000000000000000000000000000000054b40b1f852bda00000",
+        "blockNumber": "0x7c44f34",
+        "transactionHash": "0x69fea445443ca8d27e43d3c11f53aaa34a2edc7e997e84668409d86eb021abb5",
+        "transactionIndex": "0x83",
+        "blockHash": "0x0425c9323072ac78650cfd31e09ec1d604fb8d15a45c285526a8dc1acfccfec7",
+        "blockTimestamp": "0x6ae2159b",
+        "logIndex": "0x284",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0x3f4d252efc70064dd841e062847aad926bebca630137787832c77b10fd246de5",
+      "block": 130305853,
+      "log_index": 541,
+      "utc": "2026-10-28T15:32:47+00:00",
+      "cot": "2026-10-28T10:32:47-05:00",
+      "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "amount_raw": "300000000000000000000000",
+      "amount": "300000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x000000000000000000000000fdf05af8ddce3621f01713e01721d6e9ad702ea8"
+        ],
+        "data": "0x000000000000000000000000000000000000000000003f870857a3e0e3800000",
+        "blockNumber": "0x7c44f3d",
+        "transactionHash": "0x3f4d252efc70064dd841e062847aad926bebca630137787832c77b10fd246de5",
+        "transactionIndex": "0x72",
+        "blockHash": "0x73f6e609da10522ccc8f5aace1521d1a5fb51cd38f66b99e50e30b3e41170f4e",
+        "blockTimestamp": "0x6ae2159f",
+        "logIndex": "0x21d",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0x4f591ad86bb514247d59dbc91cf5793b0a63f22b9e73929aa4bb05946cc3f1f9",
+      "block": 130305864,
+      "log_index": 273,
+      "utc": "2026-10-28T15:32:52+00:00",
+      "cot": "2026-10-28T10:32:52-05:00",
+      "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "amount_raw": "120000000000000000000000",
+      "amount": "120000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x000000000000000000000000fdf05af8ddce3621f01713e01721d6e9ad702ea8"
+        ],
+        "data": "0x000000000000000000000000000000000000000000001969368974c05b000000",
+        "blockNumber": "0x7c44f48",
+        "transactionHash": "0x4f591ad86bb514247d59dbc91cf5793b0a63f22b9e73929aa4bb05946cc3f1f9",
+        "transactionIndex": "0x51",
+        "blockHash": "0x07e6fa9867fd3c9ab8d64cef4d3b401ac945bb129187fec06d755de825713b22",
+        "blockTimestamp": "0x6ae215a4",
+        "logIndex": "0x111",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0x00b7423c3baf0986ceda24d5286733747a5aed181106a8cf166f6319eacd94bd",
+      "block": 130329034,
+      "log_index": 392,
+      "utc": "2026-10-28T18:26:40+00:00",
+      "cot": "2026-10-28T13:26:40-05:00",
+      "recipient": "0xca58696564492ef9c3229c89072365b253bda246",
+      "amount_raw": "150000000000000000000000",
+      "amount": "150000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x000000000000000000000000ca58696564492ef9c3229c89072365b253bda246"
+        ],
+        "data": "0x000000000000000000000000000000000000000000001fc3842bd1f071c00000",
+        "blockNumber": "0x7c4a9ca",
+        "transactionHash": "0x00b7423c3baf0986ceda24d5286733747a5aed181106a8cf166f6319eacd94bd",
+        "transactionIndex": "0x5e",
+        "blockHash": "0xf85056a0d775f0343aa308260bde091f80305d2a3362bd703ee909b7d12a16ff",
+        "blockTimestamp": "0x6ae23e60",
+        "logIndex": "0x188",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0x41f5bc43f9d147a414d86778cfee19c21b62da0d8fed1f9e22cd04f36b283c8e",
+      "block": 130375885,
+      "log_index": 147,
+      "utc": "2026-10-29T00:18:07+00:00",
+      "cot": "2026-10-28T19:18:07-05:00",
+      "recipient": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+      "amount_raw": "250000000000000000000000",
+      "amount": "250000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x000000000000000000000000a21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9"
+        ],
+        "data": "0x0000000000000000000000000000000000000000000034f086f3b33b68400000",
+        "blockNumber": "0x7c560cd",
+        "transactionHash": "0x41f5bc43f9d147a414d86778cfee19c21b62da0d8fed1f9e22cd04f36b283c8e",
+        "transactionIndex": "0x1e",
+        "blockHash": "0x4facc5ebd0064ca10b58567b8244c603fc55949fe1e073dcebec9092a8fcbcba",
+        "blockTimestamp": "0x6ae290bf",
+        "logIndex": "0x93",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0x36485b4966c1dbcd0198d840a865c4e97e2fec32c5f1f74cf55f5030d88bae37",
+      "block": 130375893,
+      "log_index": 219,
+      "utc": "2026-10-29T00:18:10+00:00",
+      "cot": "2026-10-28T19:18:10-05:00",
+      "recipient": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+      "amount_raw": "50000000000000000000000",
+      "amount": "50000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x000000000000000000000000a21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9"
+        ],
+        "data": "0x000000000000000000000000000000000000000000000a968163f0a57b400000",
+        "blockNumber": "0x7c560d5",
+        "transactionHash": "0x36485b4966c1dbcd0198d840a865c4e97e2fec32c5f1f74cf55f5030d88bae37",
+        "transactionIndex": "0x4e",
+        "blockHash": "0xdc8e5f38df256a3f61fc3b243fc7126618e033ed8088a6e1c5bd75038c610612",
+        "blockTimestamp": "0x6ae290c2",
+        "logIndex": "0xdb",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0x9af6e7e8ba53540a930d3a7c532af1637c6ccc6324067ab402693b24aff992b0",
+      "block": 130375904,
+      "log_index": 215,
+      "utc": "2026-10-29T00:18:15+00:00",
+      "cot": "2026-10-28T19:18:15-05:00",
+      "recipient": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+      "amount_raw": "250000000000000000000000",
+      "amount": "250000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x000000000000000000000000a21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9"
+        ],
+        "data": "0x0000000000000000000000000000000000000000000034f086f3b33b68400000",
+        "blockNumber": "0x7c560e0",
+        "transactionHash": "0x9af6e7e8ba53540a930d3a7c532af1637c6ccc6324067ab402693b24aff992b0",
+        "transactionIndex": "0x3e",
+        "blockHash": "0xbdf88a91f212f19f5085b08a12862e8a53409231de6e53b569a692330bf3b811",
+        "blockTimestamp": "0x6ae290c7",
+        "logIndex": "0xd7",
+        "removed": false
+      }
+    },
+    {
+      "tx_hash": "0xcdbada2d2795f663a10fdb373337139f93b11256a6dfe102368c4538149412a5",
+      "block": 130409040,
+      "log_index": 166,
+      "utc": "2026-10-29T04:26:50+00:00",
+      "cot": "2026-10-28T23:26:50-05:00",
+      "recipient": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+      "amount_raw": "300000000000000000000000",
+      "amount": "300000.000000000000000000",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "recipient_code": "0x",
+      "is_contract": false,
+      "raw_log": {
+        "address": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000007c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "0x0000000000000000000000002ae18c3b2fc18545edd35beeaef97cc2ed908a02"
+        ],
+        "data": "0x000000000000000000000000000000000000000000003f870857a3e0e3800000",
+        "blockNumber": "0x7c5e250",
+        "transactionHash": "0xcdbada2d2795f663a10fdb373337139f93b11256a6dfe102368c4538149412a5",
+        "transactionIndex": "0x39",
+        "blockHash": "0xc180bbc08df10c9a896d5fcfb95bf33f42418d2d584c555853fb18cd7f7cab79",
+        "blockTimestamp": "0x6ae2cb0a",
+        "logIndex": "0xa6",
+        "removed": false
+      }
+    }
+  ],
+  "transfer_count": 17,
+  "total_raw": "2480000000000000000000000",
+  "total": "2480000.000000000000000000",
+  "distinct_recipients": 10,
+  "first_funders": [
+    {
+      "address": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+      "status": "unresolved: zero balance and nonce at funding snapshot",
+      "genesis_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "snapshot_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "end_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "code_at_funding_snapshot": "0x"
+    },
+    {
+      "address": "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37",
+      "status": "unresolved: zero balance and nonce at funding snapshot",
+      "genesis_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "snapshot_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "end_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "code_at_funding_snapshot": "0x"
+    },
+    {
+      "address": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "genesis_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "snapshot_state": {
+        "balance": 201820180031106826,
+        "nonce": 542
+      },
+      "candidate_first_block": 123473817,
+      "before": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "after": {
+        "balance": 126380710000000000,
+        "nonce": 0
+      },
+      "search_checks": [
+        {
+          "block": 65245428,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 97868143,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 114179500,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 122335179,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 126413018,
+          "balance": 46302871810000000,
+          "nonce": 28
+        },
+        {
+          "block": 124374099,
+          "balance": 46363269210000000,
+          "nonce": 4
+        },
+        {
+          "block": 123354639,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 123864369,
+          "balance": 46367785010000000,
+          "nonce": 2
+        },
+        {
+          "block": 123609504,
+          "balance": 46367785010000000,
+          "nonce": 2
+        },
+        {
+          "block": 123482072,
+          "balance": 86373939610000000,
+          "nonce": 1
+        },
+        {
+          "block": 123418356,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 123450214,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 123466143,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 123474108,
+          "balance": 126380710000000000,
+          "nonce": 0
+        },
+        {
+          "block": 123470126,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 123472117,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 123473113,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 123473611,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 123473860,
+          "balance": 126380710000000000,
+          "nonce": 0
+        },
+        {
+          "block": 123473736,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 123473798,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 123473829,
+          "balance": 126380710000000000,
+          "nonce": 0
+        },
+        {
+          "block": 123473814,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 123473822,
+          "balance": 126380710000000000,
+          "nonce": 0
+        },
+        {
+          "block": 123473818,
+          "balance": 126380710000000000,
+          "nonce": 0
+        },
+        {
+          "block": 123473816,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 123473817,
+          "balance": 126380710000000000,
+          "nonce": 0
+        }
+      ],
+      "code_at_funding_snapshot": "0x",
+      "utc": "2026-09-23T01:03:46+00:00",
+      "cot": "2026-09-22T20:03:46-05:00",
+      "funder": "0x5ba434b40be6cfc7033bf8d4545320fa609a4268",
+      "tx_hash": "0xe0f7aeeedd38558ba63a596b8eb6b73e53af63d6282fc3e370160f3b2109bfd0",
+      "block": 123473817,
+      "value_wei": "126380710000000000",
+      "value_bnb": "0.126380710000000000",
+      "transaction_index": 23,
+      "receipt_status": "0x1",
+      "transaction": {
+        "blockHash": "0x5f4c338cc88745c0bc342288365cb9117d4205178b9debb3ada936be74370251",
+        "blockNumber": "0x75c0f99",
+        "from": "0x5ba434b40be6cfc7033bf8d4545320fa609a4268",
+        "gas": "0x5208",
+        "gasPrice": "0xbebc200",
+        "hash": "0xe0f7aeeedd38558ba63a596b8eb6b73e53af63d6282fc3e370160f3b2109bfd0",
+        "input": "0x",
+        "nonce": "0x151c0",
+        "to": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+        "transactionIndex": "0x17",
+        "value": "0x1c0fe960e02fc00",
+        "type": "0x0",
+        "chainId": "0x38",
+        "v": "0x94",
+        "r": "0x793a12ddac90b5fac0f496eae4fe81665a74d64135c2c823864ada668734fc42",
+        "s": "0x76e37f88efafa30e0d33948440501746b9684baba7a4fa8c8c7b4d8cc0534515"
+      },
+      "status": "verified candidate first native receipt; direct transaction",
+      "second_rpc_crosscheck": {
+        "historical_state_unavailable": "{'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32000, 'message': 'historical state 52f4cff4c7371f23c0e8fede165c6529e59d504753a99ef57a47285152895c08 is not available'}}",
+        "funding_tx": "unavailable on second RPC",
+        "funding_receipt": "unavailable on second RPC"
+      },
+      "first_block_incoming_traces": [
+        {
+          "tx_hash": "0xe0f7aeeedd38558ba63a596b8eb6b73e53af63d6282fc3e370160f3b2109bfd0",
+          "tx_order_in_block": 23,
+          "trace_path": [],
+          "from": "0x5ba434b40be6cfc7033bf8d4545320fa609a4268",
+          "to": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "value_wei": "126380710000000000",
+          "value_bnb": "0.126380710000000000",
+          "type": "CALL"
+        }
+      ],
+      "trace_path": [],
+      "funding_kind": "direct transaction",
+      "tx_sender": "0x5ba434b40be6cfc7033bf8d4545320fa609a4268",
+      "funding_transaction": {
+        "blockHash": "0x5f4c338cc88745c0bc342288365cb9117d4205178b9debb3ada936be74370251",
+        "blockNumber": "0x75c0f99",
+        "from": "0x5ba434b40be6cfc7033bf8d4545320fa609a4268",
+        "gas": "0x5208",
+        "gasPrice": "0xbebc200",
+        "hash": "0xe0f7aeeedd38558ba63a596b8eb6b73e53af63d6282fc3e370160f3b2109bfd0",
+        "input": "0x",
+        "nonce": "0x151c0",
+        "to": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+        "transactionIndex": "0x17",
+        "value": "0x1c0fe960e02fc00",
+        "type": "0x0",
+        "chainId": "0x38",
+        "v": "0x94",
+        "r": "0x793a12ddac90b5fac0f496eae4fe81665a74d64135c2c823864ada668734fc42",
+        "s": "0x76e37f88efafa30e0d33948440501746b9684baba7a4fa8c8c7b4d8cc0534515"
+      },
+      "funding_receipt": {
+        "type": "0x0",
+        "from": "0x5ba434b40be6cfc7033bf8d4545320fa609a4268",
+        "to": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+        "status": "0x1",
+        "cumulativeGasUsed": "0x275df7",
+        "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "logs": [],
+        "transactionHash": "0xe0f7aeeedd38558ba63a596b8eb6b73e53af63d6282fc3e370160f3b2109bfd0",
+        "contractAddress": null,
+        "gasUsed": "0x5208",
+        "blockHash": "0x5f4c338cc88745c0bc342288365cb9117d4205178b9debb3ada936be74370251",
+        "blockNumber": "0x75c0f99",
+        "transactionIndex": "0x17",
+        "effectiveGasPrice": "0xbebc200"
+      },
+      "funder_code_at_funding": "0x",
+      "address_code_before_funding": "0x",
+      "address_code_after_funding": "0x",
+      "earliest_history_basis": "Binary search balance>0 OR nonce>0; zero balance and nonce at predecessor; trace entire candidate block in transaction/execution order. Ordinary EOA assumption before activity; historical contract destruction is not exhaustively excluded."
+    },
+    {
+      "address": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+      "genesis_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "snapshot_state": {
+        "balance": 9989901039248792,
+        "nonce": 7
+      },
+      "candidate_first_block": 124103796,
+      "before": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "after": {
+        "balance": 66161600000000,
+        "nonce": 0
+      },
+      "search_checks": [
+        {
+          "block": 65245428,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 97868143,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 114179500,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 122335179,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 126413018,
+          "balance": 525000000000,
+          "nonce": 1
+        },
+        {
+          "block": 124374099,
+          "balance": 525000000000,
+          "nonce": 1
+        },
+        {
+          "block": 123354639,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 123864369,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 124119234,
+          "balance": 66161600000000,
+          "nonce": 0
+        },
+        {
+          "block": 123991802,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 124055518,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 124087376,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 124103305,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 124111270,
+          "balance": 66161600000000,
+          "nonce": 0
+        },
+        {
+          "block": 124107288,
+          "balance": 66161600000000,
+          "nonce": 0
+        },
+        {
+          "block": 124105297,
+          "balance": 66161600000000,
+          "nonce": 0
+        },
+        {
+          "block": 124104301,
+          "balance": 66161600000000,
+          "nonce": 0
+        },
+        {
+          "block": 124103803,
+          "balance": 66161600000000,
+          "nonce": 0
+        },
+        {
+          "block": 124103554,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 124103679,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 124103741,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 124103772,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 124103788,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 124103796,
+          "balance": 66161600000000,
+          "nonce": 0
+        },
+        {
+          "block": 124103792,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 124103794,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 124103795,
+          "balance": 0,
+          "nonce": 0
+        }
+      ],
+      "code_at_funding_snapshot": "0x",
+      "utc": "2026-09-26T07:50:18+00:00",
+      "cot": "2026-09-26T02:50:18-05:00",
+      "funder": "0x67f5d43cbd8129bf41aae37a609aac44bd55dd1f",
+      "tx_hash": "0xb5a5215482c7cade369d789258eb4da375a32d62aa0392d669e56256d6d36ed8",
+      "block": 124103796,
+      "value_wei": "66161600000000",
+      "value_bnb": "0.000066161600000000",
+      "transaction_index": 82,
+      "receipt_status": "0x1",
+      "transaction": {
+        "blockHash": "0xef85b419793d25855cc1b41c8b619daaf2cacc27bf74a989801fa2b7c6268e9e",
+        "blockNumber": "0x765ac74",
+        "from": "0x67f5d43cbd8129bf41aae37a609aac44bd55dd1f",
+        "gas": "0x5208",
+        "gasPrice": "0x2faf080",
+        "hash": "0xb5a5215482c7cade369d789258eb4da375a32d62aa0392d669e56256d6d36ed8",
+        "input": "0x",
+        "nonce": "0x2",
+        "to": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+        "transactionIndex": "0x52",
+        "value": "0x3c2c72aa7000",
+        "type": "0x0",
+        "chainId": "0x38",
+        "v": "0x94",
+        "r": "0xa78d03203e50f0847b273c9a08bf2f261198013838951401fa4862b5a52dc8a3",
+        "s": "0x697af045252a92dd1b3626413ef3db03b88e75f57ed0872039f5bad979260a31"
+      },
+      "status": "verified candidate first native receipt; direct transaction",
+      "second_rpc_crosscheck": {
+        "historical_state_unavailable": "{'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32000, 'message': 'historical state 2bc7688b7028d8a796d215eda8bf8edd0403f12fe54df15c5c9fadf35a535428 is not available'}}",
+        "funding_tx": "unavailable on second RPC",
+        "funding_receipt": "unavailable on second RPC"
+      },
+      "first_block_incoming_traces": [
+        {
+          "tx_hash": "0xb5a5215482c7cade369d789258eb4da375a32d62aa0392d669e56256d6d36ed8",
+          "tx_order_in_block": 82,
+          "trace_path": [],
+          "from": "0x67f5d43cbd8129bf41aae37a609aac44bd55dd1f",
+          "to": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+          "value_wei": "66161600000000",
+          "value_bnb": "0.000066161600000000",
+          "type": "CALL"
+        }
+      ],
+      "trace_path": [],
+      "funding_kind": "direct transaction",
+      "tx_sender": "0x67f5d43cbd8129bf41aae37a609aac44bd55dd1f",
+      "funding_transaction": {
+        "blockHash": "0xef85b419793d25855cc1b41c8b619daaf2cacc27bf74a989801fa2b7c6268e9e",
+        "blockNumber": "0x765ac74",
+        "from": "0x67f5d43cbd8129bf41aae37a609aac44bd55dd1f",
+        "gas": "0x5208",
+        "gasPrice": "0x2faf080",
+        "hash": "0xb5a5215482c7cade369d789258eb4da375a32d62aa0392d669e56256d6d36ed8",
+        "input": "0x",
+        "nonce": "0x2",
+        "to": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+        "transactionIndex": "0x52",
+        "value": "0x3c2c72aa7000",
+        "type": "0x0",
+        "chainId": "0x38",
+        "v": "0x94",
+        "r": "0xa78d03203e50f0847b273c9a08bf2f261198013838951401fa4862b5a52dc8a3",
+        "s": "0x697af045252a92dd1b3626413ef3db03b88e75f57ed0872039f5bad979260a31"
+      },
+      "funding_receipt": {
+        "type": "0x0",
+        "from": "0x67f5d43cbd8129bf41aae37a609aac44bd55dd1f",
+        "to": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+        "status": "0x1",
+        "cumulativeGasUsed": "0xda3ad9",
+        "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "logs": [],
+        "transactionHash": "0xb5a5215482c7cade369d789258eb4da375a32d62aa0392d669e56256d6d36ed8",
+        "contractAddress": null,
+        "gasUsed": "0x5208",
+        "blockHash": "0xef85b419793d25855cc1b41c8b619daaf2cacc27bf74a989801fa2b7c6268e9e",
+        "blockNumber": "0x765ac74",
+        "transactionIndex": "0x52",
+        "effectiveGasPrice": "0x2faf080"
+      },
+      "funder_code_at_funding": "0x",
+      "address_code_before_funding": "0x",
+      "address_code_after_funding": "0x",
+      "earliest_history_basis": "Binary search balance>0 OR nonce>0; zero balance and nonce at predecessor; trace entire candidate block in transaction/execution order. Ordinary EOA assumption before activity; historical contract destruction is not exhaustively excluded."
+    },
+    {
+      "address": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+      "status": "unresolved: zero balance and nonce at funding snapshot",
+      "genesis_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "snapshot_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "end_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "code_at_funding_snapshot": "0x"
+    },
+    {
+      "address": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+      "genesis_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "snapshot_state": {
+        "balance": 5000000000,
+        "nonce": 6
+      },
+      "candidate_first_block": 128955356,
+      "before": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "after": {
+        "balance": 164397936681007,
+        "nonce": 0
+      },
+      "search_checks": [
+        {
+          "block": 65245428,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 97868143,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 114179500,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 122335179,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 126413018,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 128451938,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 129471398,
+          "balance": 143925086681007,
+          "nonce": 4
+        },
+        {
+          "block": 128961668,
+          "balance": 143925086681007,
+          "nonce": 4
+        },
+        {
+          "block": 128706803,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 128834236,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 128897952,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 128929810,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 128945739,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 128953704,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 128957686,
+          "balance": 148967286681007,
+          "nonce": 2
+        },
+        {
+          "block": 128955695,
+          "balance": 148967286681007,
+          "nonce": 2
+        },
+        {
+          "block": 128954700,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 128955198,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 128955447,
+          "balance": 164397936681007,
+          "nonce": 0
+        },
+        {
+          "block": 128955323,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 128955385,
+          "balance": 164397936681007,
+          "nonce": 0
+        },
+        {
+          "block": 128955354,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 128955370,
+          "balance": 164397936681007,
+          "nonce": 0
+        },
+        {
+          "block": 128955362,
+          "balance": 164397936681007,
+          "nonce": 0
+        },
+        {
+          "block": 128955358,
+          "balance": 164397936681007,
+          "nonce": 0
+        },
+        {
+          "block": 128955356,
+          "balance": 164397936681007,
+          "nonce": 0
+        },
+        {
+          "block": 128955355,
+          "balance": 0,
+          "nonce": 0
+        }
+      ],
+      "code_at_funding_snapshot": "0x",
+      "utc": "2026-10-21T14:38:11+00:00",
+      "cot": "2026-10-21T09:38:11-05:00",
+      "funder": "0xca7ded7e4f4ba8ab3b10009236ae6d1b95094589",
+      "tx_hash": "0x322f5447e749887d2ea22c54536959d2a9f06890005c0ac2306d368e265c5840",
+      "block": 128955356,
+      "value_wei": "164397936681007",
+      "value_bnb": "0.000164397936681007",
+      "transaction_index": 33,
+      "receipt_status": "0x1",
+      "transaction": {
+        "blockHash": "0x72e248a5dae0115d1053cce126b6edbf655376b813c5741611b12a9f154c7855",
+        "blockNumber": "0x7afb3dc",
+        "from": "0xca7ded7e4f4ba8ab3b10009236ae6d1b95094589",
+        "gas": "0xa410",
+        "gasPrice": "0x4749830",
+        "maxFeePerGas": "0x4749830",
+        "maxPriorityFeePerGas": "0x4749830",
+        "hash": "0x322f5447e749887d2ea22c54536959d2a9f06890005c0ac2306d368e265c5840",
+        "input": "0x8fd4ad7df3537a2e06dca5d336b0d551fe07e86b9f0f503d74d1e7e1e8756c8f",
+        "nonce": "0xa7c5d",
+        "to": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+        "transactionIndex": "0x21",
+        "value": "0x9584e09e202f",
+        "type": "0x2",
+        "accessList": [],
+        "chainId": "0x38",
+        "v": "0x1",
+        "r": "0xa5f7c7e96ee60696d28d744465fc1d834d4e8403ada5d68a1cb17a2c5c604f3b",
+        "s": "0x2748ce1f0171e3bff62fd5c9cebbb763608b4ff1d7266a158323070f74e67558",
+        "yParity": "0x1"
+      },
+      "status": "verified candidate first native receipt; direct transaction",
+      "second_rpc_crosscheck": {
+        "historical_state_unavailable": "{'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32000, 'message': 'historical state d55bea211556b065f0720dbe560231f0b5483ba9ea6d1c6a7748427755c654a4 is not available'}}",
+        "funding_tx": "unavailable on second RPC",
+        "funding_receipt": "unavailable on second RPC"
+      },
+      "first_block_incoming_traces": [
+        {
+          "tx_hash": "0x322f5447e749887d2ea22c54536959d2a9f06890005c0ac2306d368e265c5840",
+          "tx_order_in_block": 33,
+          "trace_path": [],
+          "from": "0xca7ded7e4f4ba8ab3b10009236ae6d1b95094589",
+          "to": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+          "value_wei": "164397936681007",
+          "value_bnb": "0.000164397936681007",
+          "type": "CALL"
+        }
+      ],
+      "trace_path": [],
+      "funding_kind": "direct transaction",
+      "tx_sender": "0xca7ded7e4f4ba8ab3b10009236ae6d1b95094589",
+      "funding_transaction": {
+        "blockHash": "0x72e248a5dae0115d1053cce126b6edbf655376b813c5741611b12a9f154c7855",
+        "blockNumber": "0x7afb3dc",
+        "from": "0xca7ded7e4f4ba8ab3b10009236ae6d1b95094589",
+        "gas": "0xa410",
+        "gasPrice": "0x4749830",
+        "maxFeePerGas": "0x4749830",
+        "maxPriorityFeePerGas": "0x4749830",
+        "hash": "0x322f5447e749887d2ea22c54536959d2a9f06890005c0ac2306d368e265c5840",
+        "input": "0x8fd4ad7df3537a2e06dca5d336b0d551fe07e86b9f0f503d74d1e7e1e8756c8f",
+        "nonce": "0xa7c5d",
+        "to": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+        "transactionIndex": "0x21",
+        "value": "0x9584e09e202f",
+        "type": "0x2",
+        "accessList": [],
+        "chainId": "0x38",
+        "v": "0x1",
+        "r": "0xa5f7c7e96ee60696d28d744465fc1d834d4e8403ada5d68a1cb17a2c5c604f3b",
+        "s": "0x2748ce1f0171e3bff62fd5c9cebbb763608b4ff1d7266a158323070f74e67558",
+        "yParity": "0x1"
+      },
+      "funding_receipt": {
+        "type": "0x2",
+        "from": "0xca7ded7e4f4ba8ab3b10009236ae6d1b95094589",
+        "to": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+        "status": "0x1",
+        "cumulativeGasUsed": "0x7ec694",
+        "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "logs": [],
+        "transactionHash": "0x322f5447e749887d2ea22c54536959d2a9f06890005c0ac2306d368e265c5840",
+        "contractAddress": null,
+        "gasUsed": "0x5708",
+        "blockHash": "0x72e248a5dae0115d1053cce126b6edbf655376b813c5741611b12a9f154c7855",
+        "blockNumber": "0x7afb3dc",
+        "transactionIndex": "0x21",
+        "effectiveGasPrice": "0x4749830"
+      },
+      "funder_code_at_funding": "0x",
+      "address_code_before_funding": "0x",
+      "address_code_after_funding": "0x",
+      "earliest_history_basis": "Binary search balance>0 OR nonce>0; zero balance and nonce at predecessor; trace entire candidate block in transaction/execution order. Ordinary EOA assumption before activity; historical contract destruction is not exhaustively excluded."
+    },
+    {
+      "address": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+      "status": "unresolved: zero balance and nonce at funding snapshot",
+      "genesis_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "snapshot_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "end_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "code_at_funding_snapshot": "0x"
+    },
+    {
+      "address": "0xca58696564492ef9c3229c89072365b253bda246",
+      "genesis_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "snapshot_state": {
+        "balance": 463392000000000,
+        "nonce": 1
+      },
+      "candidate_first_block": 130097514,
+      "before": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "after": {
+        "balance": 500000000000000,
+        "nonce": 0
+      },
+      "search_checks": [
+        {
+          "block": 65245428,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 97868143,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 114179500,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 122335179,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 126413018,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 128451938,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 129471398,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 129981128,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 130235993,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 130108561,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 130044845,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 130076703,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 130092632,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 130100597,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 130096615,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 130098606,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 130097611,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 130097113,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 130097362,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 130097487,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 130097549,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 130097518,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 130097503,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 130097511,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 130097515,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 130097513,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 130097514,
+          "balance": 500000000000000,
+          "nonce": 0
+        }
+      ],
+      "code_at_funding_snapshot": "0x",
+      "utc": "2026-10-27T13:29:06+00:00",
+      "cot": "2026-10-27T08:29:06-05:00",
+      "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "tx_hash": "0x87443eff758296585f6d6eb7b68800ea6c73f143239e60541a6ef5b1f072d456",
+      "block": 130097514,
+      "value_wei": "500000000000000",
+      "value_bnb": "0.000500000000000000",
+      "transaction_index": 83,
+      "receipt_status": "0x1",
+      "transaction": {
+        "blockHash": "0x68feecf8e8491e7727f6c49d2321e2139527bf248a7cafcc6c5b034ea2cdc4bb",
+        "blockNumber": "0x7c1216a",
+        "from": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+        "gas": "0x6aa4",
+        "gasPrice": "0x2faf080",
+        "hash": "0x87443eff758296585f6d6eb7b68800ea6c73f143239e60541a6ef5b1f072d456",
+        "input": "0x",
+        "nonce": "0x1df",
+        "to": "0xca58696564492ef9c3229c89072365b253bda246",
+        "transactionIndex": "0x53",
+        "value": "0x1c6bf52634000",
+        "type": "0x0",
+        "chainId": "0x38",
+        "v": "0x94",
+        "r": "0x8c95761c0074dade5e0becd54b8004d86e5d127db083ffc48b760590a85ee1e2",
+        "s": "0x1fd23555cf13046a597fddd925022c344ed21f2630bff5926e0f6da9c12a2678"
+      },
+      "status": "verified candidate first native receipt; direct transaction",
+      "second_rpc_crosscheck": {
+        "historical_state_unavailable": "{'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32000, 'message': 'historical state bd99a9be754a1eb269ff2d59013704f80f7b126d1d68c7964ad6ac8bf693ac99 is not available'}}",
+        "funding_tx": "unavailable on second RPC",
+        "funding_receipt": "unavailable on second RPC"
+      },
+      "first_block_incoming_traces": [
+        {
+          "tx_hash": "0x87443eff758296585f6d6eb7b68800ea6c73f143239e60541a6ef5b1f072d456",
+          "tx_order_in_block": 83,
+          "trace_path": [],
+          "from": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "to": "0xca58696564492ef9c3229c89072365b253bda246",
+          "value_wei": "500000000000000",
+          "value_bnb": "0.000500000000000000",
+          "type": "CALL"
+        }
+      ],
+      "trace_path": [],
+      "funding_kind": "direct transaction",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "funding_transaction": {
+        "blockHash": "0x68feecf8e8491e7727f6c49d2321e2139527bf248a7cafcc6c5b034ea2cdc4bb",
+        "blockNumber": "0x7c1216a",
+        "from": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+        "gas": "0x6aa4",
+        "gasPrice": "0x2faf080",
+        "hash": "0x87443eff758296585f6d6eb7b68800ea6c73f143239e60541a6ef5b1f072d456",
+        "input": "0x",
+        "nonce": "0x1df",
+        "to": "0xca58696564492ef9c3229c89072365b253bda246",
+        "transactionIndex": "0x53",
+        "value": "0x1c6bf52634000",
+        "type": "0x0",
+        "chainId": "0x38",
+        "v": "0x94",
+        "r": "0x8c95761c0074dade5e0becd54b8004d86e5d127db083ffc48b760590a85ee1e2",
+        "s": "0x1fd23555cf13046a597fddd925022c344ed21f2630bff5926e0f6da9c12a2678"
+      },
+      "funding_receipt": {
+        "type": "0x0",
+        "from": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+        "to": "0xca58696564492ef9c3229c89072365b253bda246",
+        "status": "0x1",
+        "cumulativeGasUsed": "0x15ede48",
+        "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "logs": [],
+        "transactionHash": "0x87443eff758296585f6d6eb7b68800ea6c73f143239e60541a6ef5b1f072d456",
+        "contractAddress": null,
+        "gasUsed": "0x5208",
+        "blockHash": "0x68feecf8e8491e7727f6c49d2321e2139527bf248a7cafcc6c5b034ea2cdc4bb",
+        "blockNumber": "0x7c1216a",
+        "transactionIndex": "0x53",
+        "effectiveGasPrice": "0x2faf080"
+      },
+      "funder_code_at_funding": "0x",
+      "address_code_before_funding": "0x",
+      "address_code_after_funding": "0x",
+      "earliest_history_basis": "Binary search balance>0 OR nonce>0; zero balance and nonce at predecessor; trace entire candidate block in transaction/execution order. Ordinary EOA assumption before activity; historical contract destruction is not exhaustively excluded."
+    },
+    {
+      "address": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+      "status": "unresolved: zero balance and nonce at funding snapshot",
+      "genesis_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "snapshot_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "end_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "code_at_funding_snapshot": "0x"
+    },
+    {
+      "address": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+      "genesis_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "snapshot_state": {
+        "balance": 500000000000000,
+        "nonce": 0
+      },
+      "candidate_first_block": 126835408,
+      "before": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "after": {
+        "balance": 500000000000000,
+        "nonce": 0
+      },
+      "search_checks": [
+        {
+          "block": 65245428,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 97868143,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 114179500,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 122335179,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 126413018,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 128451938,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 127432478,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 126922748,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 126667883,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 126795316,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 126859032,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 126827174,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 126843103,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 126835139,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 126839121,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 126837130,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 126836135,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 126835637,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 126835388,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 126835513,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 126835451,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 126835420,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 126835404,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 126835412,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 126835408,
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        {
+          "block": 126835406,
+          "balance": 0,
+          "nonce": 0
+        },
+        {
+          "block": 126835407,
+          "balance": 0,
+          "nonce": 0
+        }
+      ],
+      "code_at_funding_snapshot": "0x",
+      "utc": "2026-10-10T13:25:31+00:00",
+      "cot": "2026-10-10T08:25:31-05:00",
+      "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "tx_hash": "0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125deca9a8bec6624e7",
+      "block": 126835408,
+      "value_wei": "500000000000000",
+      "value_bnb": "0.000500000000000000",
+      "transaction_index": 65,
+      "receipt_status": "0x1",
+      "transaction": {
+        "blockHash": "0x597a2e652179653f79cc885ae25c949e3c3b2974807d5c0d985c5721b897a940",
+        "blockNumber": "0x78f5ad0",
+        "from": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+        "gas": "0x6aa4",
+        "gasPrice": "0x2faf080",
+        "hash": "0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125deca9a8bec6624e7",
+        "input": "0x",
+        "nonce": "0x29",
+        "to": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+        "transactionIndex": "0x41",
+        "value": "0x1c6bf52634000",
+        "type": "0x0",
+        "chainId": "0x38",
+        "v": "0x93",
+        "r": "0xd33390ce21549f9b3644a74be575c494bd92026c45a405c259c4274359bbf1e9",
+        "s": "0x2dea9e177f942f31ff21e5b07a57484efb80f119ccdcd079fb8b79840ed69d41"
+      },
+      "status": "verified candidate first native receipt; direct transaction",
+      "second_rpc_crosscheck": {
+        "historical_state_unavailable": "{'jsonrpc': '2.0', 'id': 1, 'error': {'code': -32000, 'message': 'historical state 9ab8255bf2cbaa136cfea472376320acb775e97d110813bdf0fb4f80046f7722 is not available'}}",
+        "funding_tx": "unavailable on second RPC",
+        "funding_receipt": "unavailable on second RPC"
+      },
+      "first_block_incoming_traces": [
+        {
+          "tx_hash": "0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125deca9a8bec6624e7",
+          "tx_order_in_block": 65,
+          "trace_path": [],
+          "from": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "to": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+          "value_wei": "500000000000000",
+          "value_bnb": "0.000500000000000000",
+          "type": "CALL"
+        }
+      ],
+      "trace_path": [],
+      "funding_kind": "direct transaction",
+      "tx_sender": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "funding_transaction": {
+        "blockHash": "0x597a2e652179653f79cc885ae25c949e3c3b2974807d5c0d985c5721b897a940",
+        "blockNumber": "0x78f5ad0",
+        "from": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+        "gas": "0x6aa4",
+        "gasPrice": "0x2faf080",
+        "hash": "0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125deca9a8bec6624e7",
+        "input": "0x",
+        "nonce": "0x29",
+        "to": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+        "transactionIndex": "0x41",
+        "value": "0x1c6bf52634000",
+        "type": "0x0",
+        "chainId": "0x38",
+        "v": "0x93",
+        "r": "0xd33390ce21549f9b3644a74be575c494bd92026c45a405c259c4274359bbf1e9",
+        "s": "0x2dea9e177f942f31ff21e5b07a57484efb80f119ccdcd079fb8b79840ed69d41"
+      },
+      "funding_receipt": {
+        "type": "0x0",
+        "from": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+        "to": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+        "status": "0x1",
+        "cumulativeGasUsed": "0xc32bcd",
+        "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "logs": [],
+        "transactionHash": "0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125deca9a8bec6624e7",
+        "contractAddress": null,
+        "gasUsed": "0x5208",
+        "blockHash": "0x597a2e652179653f79cc885ae25c949e3c3b2974807d5c0d985c5721b897a940",
+        "blockNumber": "0x78f5ad0",
+        "transactionIndex": "0x41",
+        "effectiveGasPrice": "0x2faf080"
+      },
+      "funder_code_at_funding": "0x",
+      "address_code_before_funding": "0x",
+      "address_code_after_funding": "0x",
+      "earliest_history_basis": "Binary search balance>0 OR nonce>0; zero balance and nonce at predecessor; trace entire candidate block in transaction/execution order. Ordinary EOA assumption before activity; historical contract destruction is not exhaustively excluded."
+    },
+    {
+      "address": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "status": "unresolved: zero balance and nonce at funding snapshot",
+      "genesis_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "snapshot_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "end_state": {
+        "balance": 0,
+        "nonce": 0
+      },
+      "code_at_funding_snapshot": "0x"
+    }
+  ],
+  "funding_snapshot": {
+    "latest_block": 130490857,
+    "utc": "2026-10-29T14:41:14+00:00",
+    "cot": "2026-10-29T09:41:14-05:00",
+    "states": [
+      {
+        "address": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+        "audit_end": {
+          "balance": 0,
+          "nonce": 0
+        },
+        "latest": {
+          "balance": 0,
+          "nonce": 0
+        },
+        "code_at_snapshot": "0x"
+      },
+      {
+        "address": "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37",
+        "audit_end": {
+          "balance": 0,
+          "nonce": 0
+        },
+        "latest": {
+          "balance": 0,
+          "nonce": 0
+        },
+        "code_at_snapshot": "0x"
+      },
+      {
+        "address": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+        "audit_end": {
+          "balance": 203259023527392655,
+          "nonce": 531
+        },
+        "latest": {
+          "balance": 201820180031106826,
+          "nonce": 542
+        },
+        "code_at_snapshot": "0x"
+      },
+      {
+        "address": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+        "audit_end": {
+          "balance": 9989901039248792,
+          "nonce": 7
+        },
+        "latest": {
+          "balance": 9989901039248792,
+          "nonce": 7
+        },
+        "code_at_snapshot": "0x"
+      },
+      {
+        "address": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+        "audit_end": {
+          "balance": 0,
+          "nonce": 0
+        },
+        "latest": {
+          "balance": 0,
+          "nonce": 0
+        },
+        "code_at_snapshot": "0x"
+      },
+      {
+        "address": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+        "audit_end": {
+          "balance": 143925086681007,
+          "nonce": 4
+        },
+        "latest": {
+          "balance": 5000000000,
+          "nonce": 6
+        },
+        "code_at_snapshot": "0x"
+      },
+      {
+        "address": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+        "audit_end": {
+          "balance": 0,
+          "nonce": 0
+        },
+        "latest": {
+          "balance": 0,
+          "nonce": 0
+        },
+        "code_at_snapshot": "0x"
+      },
+      {
+        "address": "0xca58696564492ef9c3229c89072365b253bda246",
+        "audit_end": {
+          "balance": 463392000000000,
+          "nonce": 1
+        },
+        "latest": {
+          "balance": 463392000000000,
+          "nonce": 1
+        },
+        "code_at_snapshot": "0x"
+      },
+      {
+        "address": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+        "audit_end": {
+          "balance": 0,
+          "nonce": 0
+        },
+        "latest": {
+          "balance": 0,
+          "nonce": 0
+        },
+        "code_at_snapshot": "0x"
+      },
+      {
+        "address": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+        "audit_end": {
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        "latest": {
+          "balance": 500000000000000,
+          "nonce": 0
+        },
+        "code_at_snapshot": "0x"
+      },
+      {
+        "address": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+        "audit_end": {
+          "balance": 0,
+          "nonce": 0
+        },
+        "latest": {
+          "balance": 0,
+          "nonce": 0
+        },
+        "code_at_snapshot": "0x"
+      }
+    ]
+  },
+  "groups": [
+    {
+      "id": "G01",
+      "members": [
+        "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+        "0xca58696564492ef9c3229c89072365b253bda246",
+        "0xfb200657f7266157a45dfcc6c09690726daa24e6"
+      ],
+      "recipients": [
+        "0xca58696564492ef9c3229c89072365b253bda246",
+        "0xfb200657f7266157a45dfcc6c09690726daa24e6"
+      ],
+      "total_raw": "175000000000000000000000",
+      "total": "175000.000000000000000000",
+      "evidence": [
+        {
+          "recipient": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "funder": "0x5ba434b40be6cfc7033bf8d4545320fa609a4268",
+          "tx_hash": "0xe0f7aeeedd38558ba63a596b8eb6b73e53af63d6282fc3e370160f3b2109bfd0",
+          "block": 123473817,
+          "funding_kind": "direct transaction"
+        },
+        {
+          "recipient": "0xca58696564492ef9c3229c89072365b253bda246",
+          "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "tx_hash": "0x87443eff758296585f6d6eb7b68800ea6c73f143239e60541a6ef5b1f072d456",
+          "block": 130097514,
+          "funding_kind": "direct transaction"
+        },
+        {
+          "recipient": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+          "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+          "tx_hash": "0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125deca9a8bec6624e7",
+          "block": 126835408,
+          "funding_kind": "direct transaction"
+        }
+      ],
+      "status": "funding evidence"
+    },
+    {
+      "id": "G02",
+      "members": [
+        "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf"
+      ],
+      "recipients": [
+        "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf"
+      ],
+      "total_raw": "10000000000000000000000",
+      "total": "10000.000000000000000000",
+      "evidence": [
+        {
+          "recipient": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+          "funder": "0x67f5d43cbd8129bf41aae37a609aac44bd55dd1f",
+          "tx_hash": "0xb5a5215482c7cade369d789258eb4da375a32d62aa0392d669e56256d6d36ed8",
+          "block": 124103796,
+          "funding_kind": "direct transaction"
+        }
+      ],
+      "status": "funding evidence"
+    },
+    {
+      "id": "G03",
+      "members": [
+        "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9"
+      ],
+      "recipients": [
+        "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9"
+      ],
+      "total_raw": "550000000000000000000000",
+      "total": "550000.000000000000000000",
+      "evidence": [
+        {
+          "recipient": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+          "funder": "0xca7ded7e4f4ba8ab3b10009236ae6d1b95094589",
+          "tx_hash": "0x322f5447e749887d2ea22c54536959d2a9f06890005c0ac2306d368e265c5840",
+          "block": 128955356,
+          "funding_kind": "direct transaction"
+        }
+      ],
+      "status": "funding evidence"
+    },
+    {
+      "id": "G04",
+      "members": [
+        "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02"
+      ],
+      "recipients": [
+        "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02"
+      ],
+      "total_raw": "300000000000000000000000",
+      "total": "300000.000000000000000000",
+      "evidence": [],
+      "status": "unresolved singleton"
+    },
+    {
+      "id": "G05",
+      "members": [
+        "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37"
+      ],
+      "recipients": [
+        "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37"
+      ],
+      "total_raw": "25000000000000000000000",
+      "total": "25000.000000000000000000",
+      "evidence": [],
+      "status": "unresolved singleton"
+    },
+    {
+      "id": "G06",
+      "members": [
+        "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c"
+      ],
+      "recipients": [
+        "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c"
+      ],
+      "total_raw": "625000000000000000000000",
+      "total": "625000.000000000000000000",
+      "evidence": [],
+      "status": "unresolved singleton"
+    },
+    {
+      "id": "G07",
+      "members": [
+        "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62"
+      ],
+      "recipients": [
+        "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62"
+      ],
+      "total_raw": "325000000000000000000000",
+      "total": "325000.000000000000000000",
+      "evidence": [],
+      "status": "unresolved singleton"
+    },
+    {
+      "id": "G08",
+      "members": [
+        "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5"
+      ],
+      "recipients": [
+        "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5"
+      ],
+      "total_raw": "25000000000000000000000",
+      "total": "25000.000000000000000000",
+      "evidence": [],
+      "status": "unresolved singleton"
+    },
+    {
+      "id": "G09",
+      "members": [
+        "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8"
+      ],
+      "recipients": [
+        "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8"
+      ],
+      "total_raw": "445000000000000000000000",
+      "total": "445000.000000000000000000",
+      "evidence": [],
+      "status": "unresolved singleton"
+    }
+  ],
+  "group_count": 9,
+  "transaction_count": 17,
+  "funding_evidenced_groups": 3,
+  "unresolved_recipient_count": 6,
+  "transfer_checks": [
+    {
+      "tx_hash": "0xbfc21c7712f9ac9a4169e211e0e341d14236fbc097fae2e03852cce1ef0e7952",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0x76f4abaa6a14005726257d1412d9a9842af6c09a5bb6395c2604f844f9bff77d",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0xdd2feb71c1dda3945b233ab7c924b1d1e6d52b7d3dcd4cc6354e3248df9b3da4",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0x8c6305282436e1867eeac42b859ff947dad7f0db447af34fb8ff7185d88bb0d9",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0xe468d224801e50cf936296a8f79b6bc9dc13d14bede24bd9945312e597b2074e",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0x7e8f90f49597397529cc81cea8723debc2dd08da35ba78999fcc2840dc4cad0c",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0x0c7d758ba9955a141839d137c2830b41860eb00ccdb0bb1a10ef33829e9b1bb6",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0x825b5c67d1cf033e9f756dcd5c69f683d77f2478ee0ee5d8f6b04d42df05c8ae",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0x388a55851ce63aaf984e6671f305155b165c47225dc5d7dab0e47d8ce2763372",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0x69fea445443ca8d27e43d3c11f53aaa34a2edc7e997e84668409d86eb021abb5",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0x3f4d252efc70064dd841e062847aad926bebca630137787832c77b10fd246de5",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0x4f591ad86bb514247d59dbc91cf5793b0a63f22b9e73929aa4bb05946cc3f1f9",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0x00b7423c3baf0986ceda24d5286733747a5aed181106a8cf166f6319eacd94bd",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0x41f5bc43f9d147a414d86778cfee19c21b62da0d8fed1f9e22cd04f36b283c8e",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0x36485b4966c1dbcd0198d840a865c4e97e2fec32c5f1f74cf55f5030d88bae37",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0x9af6e7e8ba53540a930d3a7c532af1637c6ccc6324067ab402693b24aff992b0",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "unavailable",
+      "second_rpc_transaction": "unavailable"
+    },
+    {
+      "tx_hash": "0xcdbada2d2795f663a10fdb373337139f93b11256a6dfe102368c4538149412a5",
+      "primary_receipt": "success; event matches",
+      "second_rpc_receipt": "matched",
+      "second_rpc_transaction": "matched"
+    }
+  ],
+  "operator_count": {
+    "actual": null,
+    "heuristic_components": 9,
+    "funding_evidenced_components": 3,
+    "unresolved_singletons": 6,
+    "interpretation": "Nine provisional components under the specified first-funder rule; actual distinct operators undetermined. Zero-state recipients supply no first-funder edge."
+  },
+  "scope": {
+    "cot_day": "2026-10-28",
+    "utc_start": "2026-10-28T05:00:00Z",
+    "utc_end_inclusive": "2026-10-29T04:59:59Z",
+    "token_decimals": 18,
+    "funding_cutoff_block": 130490857,
+    "funding_cutoff_utc": "2026-10-29T14:41:14+00:00",
+    "outflow_receipts_only_for_requested_day": true
+  },
+  "unexplained_transfers": [
+    {
+      "tx_hash": "0xbfc21c7712f9ac9a4169e211e0e341d14236fbc097fae2e03852cce1ef0e7952",
+      "block": 130289426,
+      "log_index": 226,
+      "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+      "amount": "300000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event; no first native-BNB receipt identified (zero balance and nonce at both snapshots)"
+    },
+    {
+      "tx_hash": "0x76f4abaa6a14005726257d1412d9a9842af6c09a5bb6395c2604f844f9bff77d",
+      "block": 130289434,
+      "log_index": 439,
+      "recipient": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+      "amount": "25000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event"
+    },
+    {
+      "tx_hash": "0xdd2feb71c1dda3945b233ab7c924b1d1e6d52b7d3dcd4cc6354e3248df9b3da4",
+      "block": 130289443,
+      "log_index": 1555,
+      "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+      "amount": "25000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event; no first native-BNB receipt identified (zero balance and nonce at both snapshots)"
+    },
+    {
+      "tx_hash": "0x8c6305282436e1867eeac42b859ff947dad7f0db447af34fb8ff7185d88bb0d9",
+      "block": 130289453,
+      "log_index": 289,
+      "recipient": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+      "amount": "25000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event; no first native-BNB receipt identified (zero balance and nonce at both snapshots)"
+    },
+    {
+      "tx_hash": "0xe468d224801e50cf936296a8f79b6bc9dc13d14bede24bd9945312e597b2074e",
+      "block": 130289462,
+      "log_index": 526,
+      "recipient": "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37",
+      "amount": "25000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event; no first native-BNB receipt identified (zero balance and nonce at both snapshots)"
+    },
+    {
+      "tx_hash": "0x7e8f90f49597397529cc81cea8723debc2dd08da35ba78999fcc2840dc4cad0c",
+      "block": 130289472,
+      "log_index": 302,
+      "recipient": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+      "amount": "25000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event; no first native-BNB receipt identified (zero balance and nonce at both snapshots)"
+    },
+    {
+      "tx_hash": "0x0c7d758ba9955a141839d137c2830b41860eb00ccdb0bb1a10ef33829e9b1bb6",
+      "block": 130289480,
+      "log_index": 371,
+      "recipient": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+      "amount": "300000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event; no first native-BNB receipt identified (zero balance and nonce at both snapshots)"
+    },
+    {
+      "tx_hash": "0x825b5c67d1cf033e9f756dcd5c69f683d77f2478ee0ee5d8f6b04d42df05c8ae",
+      "block": 130290580,
+      "log_index": 292,
+      "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+      "amount": "300000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event; no first native-BNB receipt identified (zero balance and nonce at both snapshots)"
+    },
+    {
+      "tx_hash": "0x388a55851ce63aaf984e6671f305155b165c47225dc5d7dab0e47d8ce2763372",
+      "block": 130292025,
+      "log_index": 484,
+      "recipient": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+      "amount": "10000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event"
+    },
+    {
+      "tx_hash": "0x69fea445443ca8d27e43d3c11f53aaa34a2edc7e997e84668409d86eb021abb5",
+      "block": 130305844,
+      "log_index": 644,
+      "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "amount": "25000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event; no first native-BNB receipt identified (zero balance and nonce at both snapshots)"
+    },
+    {
+      "tx_hash": "0x3f4d252efc70064dd841e062847aad926bebca630137787832c77b10fd246de5",
+      "block": 130305853,
+      "log_index": 541,
+      "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "amount": "300000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event; no first native-BNB receipt identified (zero balance and nonce at both snapshots)"
+    },
+    {
+      "tx_hash": "0x4f591ad86bb514247d59dbc91cf5793b0a63f22b9e73929aa4bb05946cc3f1f9",
+      "block": 130305864,
+      "log_index": 273,
+      "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "amount": "120000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event; no first native-BNB receipt identified (zero balance and nonce at both snapshots)"
+    },
+    {
+      "tx_hash": "0x00b7423c3baf0986ceda24d5286733747a5aed181106a8cf166f6319eacd94bd",
+      "block": 130329034,
+      "log_index": 392,
+      "recipient": "0xca58696564492ef9c3229c89072365b253bda246",
+      "amount": "150000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event"
+    },
+    {
+      "tx_hash": "0x41f5bc43f9d147a414d86778cfee19c21b62da0d8fed1f9e22cd04f36b283c8e",
+      "block": 130375885,
+      "log_index": 147,
+      "recipient": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+      "amount": "250000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event"
+    },
+    {
+      "tx_hash": "0x36485b4966c1dbcd0198d840a865c4e97e2fec32c5f1f74cf55f5030d88bae37",
+      "block": 130375893,
+      "log_index": 219,
+      "recipient": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+      "amount": "50000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event"
+    },
+    {
+      "tx_hash": "0x9af6e7e8ba53540a930d3a7c532af1637c6ccc6324067ab402693b24aff992b0",
+      "block": 130375904,
+      "log_index": 215,
+      "recipient": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+      "amount": "250000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event"
+    },
+    {
+      "tx_hash": "0xcdbada2d2795f663a10fdb373337139f93b11256a6dfe102368c4538149412a5",
+      "block": 130409040,
+      "log_index": 166,
+      "recipient": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+      "amount": "300000.000000000000000000",
+      "reason": "Economic purpose and beneficial control cannot be established from the transfer event; no first native-BNB receipt identified (zero balance and nonce at both snapshots)"
+    }
+  ],
+  "verification_limits": [
+    "Complete outflow logs and boundary timestamps match NodeReal and NOWNodes. Only one NOWNodes individual receipt/transaction was available; all 17 were verified on NodeReal.",
+    "First-funding states, transactions, successful receipts and complete candidate-block traces were verified on NodeReal. NOWNodes historical state and all five cited funding transactions were unavailable; bloXroute also returned no cited funding transactions. No independent two-provider funding-history verification is claimed.",
+    "Earliest-activity search uses balance>0 OR nonce>0 under ordinary EOA history. Historically transient contracts that receive and lose BNB without persistent nonce/state are not exhaustively excluded by a full-chain trace scan.",
+    "A common first funder is an association heuristic. It cannot prove common control; absent or different funders cannot establish distinct operators."
+  ]
+}
