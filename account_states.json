@@ -1,139 +1,167 @@
-{
-  "latest_block": 130490857,
-  "utc": "2026-10-29T14:41:14+00:00",
-  "cot": "2026-10-29T09:41:14-05:00",
-  "states": [
-    {
-      "address": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
-      "audit_end": {
-        "balance": 0,
-        "nonce": 0
-      },
-      "latest": {
-        "balance": 0,
-        "nonce": 0
-      },
-      "code_at_snapshot": "0x"
+[
+  {
+    "address": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
     },
-    {
-      "address": "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37",
-      "audit_end": {
-        "balance": 0,
-        "nonce": 0
-      },
-      "latest": {
-        "balance": 0,
-        "nonce": 0
-      },
-      "code_at_snapshot": "0x"
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
     },
-    {
-      "address": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
-      "audit_end": {
-        "balance": 203259023527392655,
-        "nonce": 531
-      },
-      "latest": {
-        "balance": 201820180031106826,
-        "nonce": 542
-      },
-      "code_at_snapshot": "0x"
-    },
-    {
-      "address": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
-      "audit_end": {
-        "balance": 9989901039248792,
-        "nonce": 7
-      },
-      "latest": {
-        "balance": 9989901039248792,
-        "nonce": 7
-      },
-      "code_at_snapshot": "0x"
-    },
-    {
-      "address": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
-      "audit_end": {
-        "balance": 0,
-        "nonce": 0
-      },
-      "latest": {
-        "balance": 0,
-        "nonce": 0
-      },
-      "code_at_snapshot": "0x"
-    },
-    {
-      "address": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
-      "audit_end": {
-        "balance": 143925086681007,
-        "nonce": 4
-      },
-      "latest": {
-        "balance": 5000000000,
-        "nonce": 6
-      },
-      "code_at_snapshot": "0x"
-    },
-    {
-      "address": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
-      "audit_end": {
-        "balance": 0,
-        "nonce": 0
-      },
-      "latest": {
-        "balance": 0,
-        "nonce": 0
-      },
-      "code_at_snapshot": "0x"
-    },
-    {
-      "address": "0xca58696564492ef9c3229c89072365b253bda246",
-      "audit_end": {
-        "balance": 463392000000000,
-        "nonce": 1
-      },
-      "latest": {
-        "balance": 463392000000000,
-        "nonce": 1
-      },
-      "code_at_snapshot": "0x"
-    },
-    {
-      "address": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
-      "audit_end": {
-        "balance": 0,
-        "nonce": 0
-      },
-      "latest": {
-        "balance": 0,
-        "nonce": 0
-      },
-      "code_at_snapshot": "0x"
-    },
-    {
-      "address": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
-      "audit_end": {
-        "balance": 500000000000000,
-        "nonce": 0
-      },
-      "latest": {
-        "balance": 500000000000000,
-        "nonce": 0
-      },
-      "code_at_snapshot": "0x"
-    },
-    {
-      "address": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
-      "audit_end": {
-        "balance": 0,
-        "nonce": 0
-      },
-      "latest": {
-        "balance": 0,
-        "nonce": 0
-      },
-      "code_at_snapshot": "0x"
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
     }
-  ]
-}
+  },
+  {
+    "address": "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 203259023527392655,
+      "nonce": 531
+    },
+    "cutoff": {
+      "balance": 203259023527392655,
+      "nonce": 531
+    }
+  },
+  {
+    "address": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 9989901039248792,
+      "nonce": 7
+    },
+    "cutoff": {
+      "balance": 9989901039248792,
+      "nonce": 7
+    }
+  },
+  {
+    "address": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 143925086681007,
+      "nonce": 4
+    },
+    "cutoff": {
+      "balance": 143925086681007,
+      "nonce": 4
+    }
+  },
+  {
+    "address": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xca58696564492ef9c3229c89072365b253bda246",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 463392000000000,
+      "nonce": 1
+    },
+    "cutoff": {
+      "balance": 463392000000000,
+      "nonce": 1
+    }
+  },
+  {
+    "address": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 500000000000000,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 500000000000000,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  }
+]

@@ -1,104 +1,121 @@
 [
   {
     "tx_hash": "0xbfc21c7712f9ac9a4169e211e0e341d14236fbc097fae2e03852cce1ef0e7952",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 226,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0x76f4abaa6a14005726257d1412d9a9842af6c09a5bb6395c2604f844f9bff77d",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 439,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0xdd2feb71c1dda3945b233ab7c924b1d1e6d52b7d3dcd4cc6354e3248df9b3da4",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 1555,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0x8c6305282436e1867eeac42b859ff947dad7f0db447af34fb8ff7185d88bb0d9",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 289,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0xe468d224801e50cf936296a8f79b6bc9dc13d14bede24bd9945312e597b2074e",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 526,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0x7e8f90f49597397529cc81cea8723debc2dd08da35ba78999fcc2840dc4cad0c",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 302,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0x0c7d758ba9955a141839d137c2830b41860eb00ccdb0bb1a10ef33829e9b1bb6",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 371,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0x825b5c67d1cf033e9f756dcd5c69f683d77f2478ee0ee5d8f6b04d42df05c8ae",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 292,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0x388a55851ce63aaf984e6671f305155b165c47225dc5d7dab0e47d8ce2763372",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 484,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0x69fea445443ca8d27e43d3c11f53aaa34a2edc7e997e84668409d86eb021abb5",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 644,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0x3f4d252efc70064dd841e062847aad926bebca630137787832c77b10fd246de5",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 541,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0x4f591ad86bb514247d59dbc91cf5793b0a63f22b9e73929aa4bb05946cc3f1f9",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 273,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0x00b7423c3baf0986ceda24d5286733747a5aed181106a8cf166f6319eacd94bd",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 392,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0x41f5bc43f9d147a414d86778cfee19c21b62da0d8fed1f9e22cd04f36b283c8e",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 147,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0x36485b4966c1dbcd0198d840a865c4e97e2fec32c5f1f74cf55f5030d88bae37",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 219,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0x9af6e7e8ba53540a930d3a7c532af1637c6ccc6324067ab402693b24aff992b0",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "unavailable",
-    "second_rpc_transaction": "unavailable"
+    "log_index": 215,
+    "primary_receipt": "matched success",
+    "second_receipt": "unavailable",
+    "second_transaction": "unavailable"
   },
   {
     "tx_hash": "0xcdbada2d2795f663a10fdb373337139f93b11256a6dfe102368c4538149412a5",
-    "primary_receipt": "success; event matches",
-    "second_rpc_receipt": "matched",
-    "second_rpc_transaction": "matched"
+    "log_index": 166,
+    "primary_receipt": "matched success",
+    "second_receipt": "matched",
+    "second_transaction": "matched"
   }
 ]
